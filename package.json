@@ -1,0 +1,27 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "hangman game in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nedyk/hangman-node.git"
+  },
+  "keywords": [
+    "Javascript",
+    "NPM",
+    "node"
+  ],
+  "author": "Neddy Nyatome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedyk/hangman-node.gits"
+  },
+  "homepage": "https://github.com/Nedyk/hangman-node.git#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
